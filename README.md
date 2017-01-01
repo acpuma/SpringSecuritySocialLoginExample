@@ -37,4 +37,4 @@ mvn clean install
 ## Deploy :
 deploy spring-security-social-login-example.war in web server(Tomcat).
 
-src : http://sunilkumarpblog.blogspot.com.tr/2016/04/social-login-with-spring-security.html
+Details : http://sunilkumarpblog.blogspot.com.tr/2016/04/social-login-with-spring-security.html
